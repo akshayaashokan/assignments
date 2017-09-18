@@ -1,0 +1,5 @@
+2017-09-15 16:35:13 DEBUG HelloWorld:19 - This is debug : mkyong
+2017-09-15 16:35:13 INFO  HelloWorld:23 - This is info : mkyong
+2017-09-15 16:35:13 WARN  HelloWorld:26 - This is warn : mkyong
+2017-09-15 16:35:13 ERROR HelloWorld:27 - This is error : mkyong
+2017-09-15 16:35:13 FATAL HelloWorld:28 - This is fatal : mkyong
